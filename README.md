@@ -1,7 +1,7 @@
 # Target-Highlighter
 This project is still in the process of being conceptualized.
 
-The goal of this project is to create program that when given video input, will:
-1. Distinguish foreground objects from the background.
-2. identify object(s) moving relative to the background.
-3. Highlight the object(s) using bright colours.
+The goal of this project is to create program will:
+1. Create a see through and click through window.
+2. Identify pixels of specific colours in the layer below.
+3. Overlay the identified colours with a different colour.
