@@ -1,0 +1,5 @@
+﻿  Target-Highlighter.cpp
+C:\Users\georg\CPSC\Target-Highlighter\Target-Highlighter\Target-Highlighter.cpp(65,6): warning C4101:  'red': unreferenced local variable
+C:\Users\georg\CPSC\Target-Highlighter\Target-Highlighter\Target-Highlighter.cpp(65,18): warning C4101:  'blue': unreferenced local variable
+C:\Users\georg\CPSC\Target-Highlighter\Target-Highlighter\Target-Highlighter.cpp(65,11): warning C4101:  'green': unreferenced local variable
+  Target-Highlighter.vcxproj -> C:\Users\georg\CPSC\Target-Highlighter\Target-Highlighter\Debug\Target-Highlighter.exe
